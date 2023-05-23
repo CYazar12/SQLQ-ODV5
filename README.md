@@ -1,0 +1,2 @@
+# SQLQ-ODV5
+SQL Ödev 5 | ORDER BY | LIMIT ve OFFSET
